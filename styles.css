@@ -54,6 +54,9 @@ h3{
 .about .infoblock{
     width: 70%;
 }
+.infoblock p{
+    margin: 0.5em 0;
+}
 .about .photoblock{
     width: 30%;
 }
